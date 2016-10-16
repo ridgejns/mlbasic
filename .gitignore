@@ -1,0 +1,15 @@
+# ignore .DS_store
+**/.DS_Store
+
+# ignore all images
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# ignore all videos
+*.mp4
+*.flv
+
+*.mat
+*~
