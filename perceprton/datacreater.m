@@ -1,7 +1,8 @@
+% This is a simple moudle for data create.
 clear, clc
 mu1=[4,1]';
-mu2=[3,4]';
-% mu2=[2,5]';
+% mu2=[3,4]';
+mu2=[2,5]';
 sigma1 = [1.3, 1; 1, 1.7];
 sigma2 = [1.3, 1; 1, 1.7];
 
